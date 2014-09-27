@@ -1,0 +1,36 @@
+/* Código css */
+.white-with-blue-shadow {
+   text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+   color: white;
+}
+
+#sombrabarra {
+    box-shadow: 3px 3px 5px black;
+}
+
+.borde-gris {
+    border: #666666 1px solid;
+    
+}
+        
+.borde-redondeado {
+    border-radius: 3px;
+}
+/* margen parte de abajo de la imagen */
+.service-box-tumb {    
+    margin-bottom: 35px;
+}
+
+.texto-bloque {    /* centrar texto */
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sin-padding {      
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+    
+.tamano {     /* Comentario */
+    width: 100%;
+}
